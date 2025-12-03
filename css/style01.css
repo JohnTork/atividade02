@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    background-color: DodgerBlue;
+    flex-wrap: wrap;
+    /*quebra de conteiner*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+
+
+}
+
+.container div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
